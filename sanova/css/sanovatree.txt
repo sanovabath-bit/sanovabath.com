@@ -1,0 +1,20 @@
+bathware-website/
+│
+├── index.html
+├── about.html
+├── products.html
+├── contact.html
+│
+├── css/
+│   └── style.css
+│
+├── js/
+│   └── main.js
+│
+├── images/
+│   ├── logo.png
+│   ├── hero.jpg
+│   ├── faucet1.jpg
+│   ├── shower.jpg
+│
+└── fonts/
